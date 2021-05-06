@@ -1,0 +1,45 @@
+/* body {
+    margin: 0rem;
+    background-color: #212121;
+}
+
+
+
+.paper {
+    background: linear-gradient(111.98deg, rgba(255, 255, 255, 0.05) 5%, rgba(0, 0, 0, 0.03) 100%);
+    backdrop-filter: blur(53px);
+    border: 1px solid #524b63;
+    border-radius: 15px;
+    box-shadow: rgb(25 19 38 / 10%) 0px 2px 12px -8px, rgb(25 19 38 / 5%) 0px 1px 1px;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    position: relative;
+    padding: 30px;
+} */
+
+.paper {
+    padding: 1rem;
+}
+
+.cryptoInfo {
+    border-bottom: 1px solid #c7c7c7;
+    margin-bottom: 1rem;
+}
+
+.cipherOutputPair {
+    font-weight: bold;
+    background-color: #4CAF50;
+    padding: 5px;
+    margin: 5px;
+    letter-spacing: 2px;
+    border-radius: 0.4rem;
+    display: inline-block;
+}
+
+.cipherKeyWithoutRepetition {
+    font-weight: bold;
+    background-color: orange;
+    padding: 5px;
+    letter-spacing: 2px;
+    border-radius: 0.4rem;
+}
